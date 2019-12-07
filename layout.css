@@ -1,0 +1,83 @@
+@import 'components.css';
+
+a {
+	text-decoration: none;
+	color: #333;
+}
+
+ul {
+	list-style-type: none;
+}
+
+span, p, li, i, h1, h2, h3, h4 {
+    font-size: 2rem;
+}
+
+.dflex {
+	display: flex;
+}
+
+.center {
+	text-align: center;
+}
+
+.mg-0 {
+	margin: 0;
+}
+
+.pd-0 {
+	padding: 0;
+}
+
+.grey {
+	color: rgb(112, 112, 112);
+}
+
+.btn {
+	text-decoration: none;
+	font-size: 2.5rem;
+	border-radius: 8px;
+    transition: all 0.5s;
+    padding: 14px 22px;
+}
+
+.btn-red {
+	color: white;
+	background-color:#f0163a;
+	padding: 18px 32px;
+	margin-top: 14px;
+	transform: scale(1);
+}
+
+.btn-red:hover {
+	background-color:  #f11e41;
+}
+
+.btn-center {
+    position: absolute;
+    width: 94%;
+    align-self: stretch;
+}
+
+.stripe {
+	border-top: 1px solid rgba(187, 186, 186, 0.95);;
+}
+
+
+.btn-blue {
+    border: 2px solid rgb(0, 102, 255);
+    border-radius: 10px;
+    font-size: 1.9em;
+	color:  rgb(0, 102, 255);
+	margin: 6px 10px;
+} 
+
+.foot-content {
+    margin-top: 16px;
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+
