@@ -2,12 +2,13 @@
 	border: 1px solid #7e7e7e;
 	border-radius: 12px;
     margin: 8px 14px;
-    box-sizing: border-box;
-    position: relative;
+	position: relative;
+	padding: 14px 6px 0 10px;
 }
 
 .card span {
-	color: rgb(43, 144, 226)
+	color: rgb(43, 144, 226);
+	text-shadow: 0.4px 0.4px 1.2px rgba(43, 144, 226, 0.63);
 }
 
 .card i {
