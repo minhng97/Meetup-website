@@ -1,0 +1,17 @@
+.card {
+	border: 1px solid #7e7e7e;
+	border-radius: 12px;
+    margin: 8px 14px;
+    box-sizing: border-box;
+    position: relative;
+}
+
+.card span {
+	color: rgb(43, 144, 226)
+}
+
+.card i {
+	padding: 0 6px 0 18px;
+	color: rgb(128, 128, 128);
+}
+
