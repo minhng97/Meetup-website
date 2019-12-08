@@ -1,0 +1,13 @@
+.dflex {
+  display: flex;
+}
+
+.flex-item {
+  margin-left: 50px;
+  display: block;
+}
+
+.flex-column {
+  display: flex;
+  flex-direction: column;
+}
