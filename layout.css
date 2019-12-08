@@ -25,15 +25,6 @@ h4 {
   font-size: 2rem;
 }
 
-.dflex {
-  display: flex;
-}
-
-.flex-item {
-  margin-left: 50px;
-  display: block;
-}
-
 .center {
   text-align: center;
 }
@@ -50,10 +41,10 @@ h4 {
 }
 
 .black {
-	color: black;
+  color: black;
 }
 .red {
-	color: rgb(123, 58, 58);
+  color: rgb(123, 58, 58);
 }
 .grey {
   color: rgb(112, 112, 112);
@@ -156,3 +147,4 @@ h4 {
   background-color: #000000;
   color: azure;
 }
+
