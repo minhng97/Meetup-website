@@ -16,3 +16,19 @@
 	color: rgb(128, 128, 128);
 }
 
+.card-with-image {
+	width: 720px;
+	border: 1px solid grey;
+	border-radius: 8px;
+	margin-left: 20px;
+	margin-top:10px;
+}
+
+.thumb-image img {
+	width: 100%;
+	border-radius: 8px 8px 0 0;
+}
+
+.card-content {
+	padding: 20px;
+}
