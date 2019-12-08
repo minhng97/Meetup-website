@@ -19,15 +19,15 @@
 .explore-home {
     position: relative;
     font-size: 1.5rem;
-    margin: 4px 10px 4px 10px;
+	margin: 4px 10px 4px 10px;
+	word-wrap: break-word;
+	padding-left: 20px;
 }
 
 .explore-home h2 {
 	font-size: 2.5rem;
-	padding-left: 20px;
 } 
 
 .explore-home span, p {
 	font-size: 2rem;
-	padding-left: 20px;
 } 
