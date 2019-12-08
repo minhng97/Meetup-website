@@ -20,6 +20,7 @@
     background-color: #32363b;
     border-top: 0.4px solid whitesmoke;
     padding: 20px 20px 40px 20px;
-    line-height: 1.5;
-    font-size: 1rem !important;
+    line-height: 1;
+    font-size: 2rem !important;
+    font-weight: 100 !important;
 }
