@@ -37,3 +37,11 @@
 .card-content {
 	padding: 20px;
 }
+
+.foot-content {
+	margin-top: 16px;
+	margin-bottom: 20px;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+  }
