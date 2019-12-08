@@ -4,8 +4,9 @@
 }
 
 .container h1{
-	color: rgb(235, 185, 152);
-	font-size: 5rem;
+	color: rgb(255, 142, 142);
+	font-size: 6rem;
+	font-weight: 1000;
 }
 
 .container p {
@@ -15,7 +16,7 @@
 
 .container .container-gradient {
 	height: 100%;
-	background: linear-gradient(0deg, rgba(0,0,0,1) 30%, rgba(0,0,0,0) 100%);
+	background: linear-gradient(0deg, rgba(0, 0, 0, 0) 30%, rgba(255, 255, 255, 0) 100%);
 	background-repeat: repeat;
 	background-position: center bottom ;
 }
@@ -24,4 +25,7 @@
 	background-image: url('./images/racing-bike.jpg') ;
 	background-size: cover;
 	background-position: center;
+	box-sizing: border-box;
+	padding-top: 260px;
+	padding-bottom: 60px;
 }
